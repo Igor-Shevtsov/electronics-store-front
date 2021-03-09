@@ -31,6 +31,10 @@ ElectronicsStore - это интернет-магазин электроники
 
 ![Shop](https://github.com/Igor-Shevtsov/electronics-store-front/blob/master/src/scrin/1.png 'Магазин')
 
+#### Карточка товара:
+
+![Product](https://github.com/Igor-Shevtsov/electronics-store-front/blob/master/src/scrin/5.png 'Карточка товара')
+
 #### Панель администратора:
 
 ![Admin](https://github.com/Igor-Shevtsov/electronics-store-front/blob/master/src/scrin/3.png 'Панель администратора')
