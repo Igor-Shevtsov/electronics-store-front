@@ -13,8 +13,8 @@ ElectronicsStore - это интернет-магазин электроники
 
 Чтобы зайти с правами администратора используйте следующие данные:
 
-# login: shevcovigor3085@yandex.ru
-# password: 111111
+-login: shevcovigor3085@yandex.ru
+-password: 111111
 
 ### Стек технологий используемых в проекте
 
