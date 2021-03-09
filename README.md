@@ -2,9 +2,9 @@
 
 ElectronicsStore - это интернет-магазин электроники.
 
-Работу приложения можно посмотреть сдесь: http://167.99.236.32
+Работу приложения можно посмотреть сдесь: [ElectronicsStore](http://167.99.236.32)
 
-Это frontend часть, Server находится здесь: https://github.com/Igor-Shevtsov/electronics-store-back
+Это frontend часть, Server находится здесь: [Server](https://github.com/Igor-Shevtsov/electronics-store-back)
 
 Чтобы зарегистрироваться нужно:
  1. ввести адрес электронной почты
